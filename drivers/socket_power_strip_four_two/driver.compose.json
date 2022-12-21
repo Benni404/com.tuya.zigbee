@@ -20,7 +20,8 @@
   },
   "zigbee": {
     "manufacturerName": [
-      "_TZ3000_o005nuxx"
+      "_TZ3000_o005nuxx",
+      "_TZ3000_cfnprab5"
     ],
     "productId": [
       "TS011F"
